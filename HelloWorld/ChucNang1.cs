@@ -9,5 +9,6 @@ namespace HelloWorld
     class ChucNang1
     {
         ///làm gì đó
+        Console.
     }
 }
